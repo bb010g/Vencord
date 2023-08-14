@@ -1,5 +1,6 @@
 {
     "recommendations": [
+        "Vendicated.vencord-companion",
         "dbaeumer.vscode-eslint",
         "eamodio.gitlens",
         "EditorConfig.EditorConfig",
